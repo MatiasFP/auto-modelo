@@ -1,0 +1,10 @@
+{
+  "name": "auto-modelo",
+  "version": "0.2.0",
+  "description": "Elige Haiku, Sonnet u Opus segun lo dificil de la tarea y muestra en un panel que modelos se estan usando",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "MatiasFP"
+  },
+  "repository": "https://github.com/MatiasFP/auto-modelo"
+}

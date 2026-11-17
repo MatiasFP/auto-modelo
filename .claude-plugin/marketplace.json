@@ -1,0 +1,13 @@
+{
+  "name": "auto-modelo",
+  "owner": {
+    "name": "MatiasFP"
+  },
+  "plugins": [
+    {
+      "name": "auto-modelo",
+      "source": "./",
+      "description": "Elige Haiku, Sonnet u Opus segun lo dificil de la tarea y muestra en un panel que modelos se estan usando"
+    }
+  ]
+}
